@@ -1,6 +1,8 @@
 {
   "name": "storefullreactredaxfront",
   "version": "0.1.0",
+    "author": "sergeyif@gmail.com",
+  "license": "ISC",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -38,7 +40,5 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": []
 }

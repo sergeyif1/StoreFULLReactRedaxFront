@@ -7,7 +7,7 @@
 
 <p>My goal is to practice and refine technologies, features, architecture, and logic related to React and Redux Toolkit in the project, as well. I aim to implement (routing) backend structure, as well as sorting, filtering, and search functionality. Additionally, I would like to gain more experience working with React Hooks here.</p>
 
-<h3 align="center">🛠 Components have been created (the App.js file has been broken down into components: Header, Menu, Sorting, Categories, Product Card). I am organizing the file structure (with a Components folder)!.</h3>
+<h3 align="center">🛠 Components have been created (the App.js file has been broken down into components: Header, Menu, Sorting, Categories, Product Card). I am organizing the file structure (with a Components folder)!!.</h3>
 
 <ul>
 <li>Header</li>
